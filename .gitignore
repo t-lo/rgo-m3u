@@ -1,0 +1,6 @@
+.*swp
+*
+!mkm3u.awk
+!README.md
+!LICENSE
+!.gitignore
